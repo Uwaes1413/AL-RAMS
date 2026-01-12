@@ -5,13 +5,13 @@
 ![Framework](https://img.shields.io/badge/framework-Bootstrap%205-purple)
 ![Responsive](https://img.shields.io/badge/responsive-yes-brightgreen)
 
-Official corporate website of **AL RAMS Architectural Engineering Consultancy L.L.C**, Abu Dhabi, UAE.  
+Prototype corporate website of **AL RAMS Architectural Engineering Consultancy L.L.C**, Abu Dhabi, UAE.  
 This project is a premium, modern and fully responsive website built to represent the engineering consultancy online.
 
 ---
 
 ## 🌐 Live Website
-https://your-username.github.io/al-rams-website/
+https://Uwaes1413.github.io/AL-RAMS/
 
 ---
 
@@ -25,7 +25,7 @@ This website is designed to:
 - Provide contact and appointment booking
 - Establish trust with authorities, consultants, and clients
 
-It serves as AL RAMS’s official digital presence.
+It serves as AL RAMS’s prototype digital presence.
 
 ---
 
@@ -71,10 +71,10 @@ AL-RAMS-Website/
 ## 🚀 How to Run Locally
 
 1. Clone the repository  
-git clone https://github.com/your-username/al-rams-website.git
+git clone https://github.com/Uwaes1413/AL-RAMS.git
 
 2. Open the folder  
-cd al-rams-website
+cd Alrams
 
 3. Open `index.html` in your browser
 
@@ -89,7 +89,7 @@ cd al-rams-website
 3. Click Save  
 
 Your website will be live at  
-https://uwaes1413.github.io/AL-RAMS/
+https://Uwaes1413.github.io/AL-RAMS/
 
 ---
 
